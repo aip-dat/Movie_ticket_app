@@ -1,5 +1,14 @@
 # Movie ticket app
-Movie ticket app select seat for movie date
+Movie ticket app select seat for movie date.
+
+The app using The movie api from (themoviedb.org) and using react-native tech for build.
+
+```Install```
+make sure you have emulator device or phone sdk >=16 && <=33 android not sure work on ios.
+
+npm install
+
+npx react-native run-android / npx react-native start
 
 ```1. Home page```
 
